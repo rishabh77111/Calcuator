@@ -1,3 +1,3 @@
 # Calcuator
 To See or use the Calculator
-https://rishabh77111.github.io/Calcuator/
+[Click here](https://rishabh77111.github.io/Calcuator/)
